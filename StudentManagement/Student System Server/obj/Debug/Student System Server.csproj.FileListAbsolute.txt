@@ -1,0 +1,10 @@
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\Student System Server\bin\Debug\Student System Server.exe.config
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\Student System Server\bin\Debug\Student System Server.exe
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\Student System Server\bin\Debug\Student System Server.pdb
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\Student System Server\bin\Debug\StudentDLL.dll
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\Student System Server\bin\Debug\StudentDLL.pdb
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\Student System Server\obj\Debug\Student System Server.csproj.AssemblyReference.cache
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\Student System Server\obj\Debug\Student System Server.csproj.CoreCompileInputs.cache
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\Student System Server\obj\Debug\Student .B2994681.Up2Date
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\Student System Server\obj\Debug\Student System Server.exe
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\Student System Server\obj\Debug\Student System Server.pdb

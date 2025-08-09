@@ -1,0 +1,21 @@
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\bin\Debug\Student System Server.exe
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\bin\Debug\StudentDLL.dll
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\bin\Debug\Student System Server.pdb
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\bin\Debug\Student System Server.exe.config
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\bin\Debug\StudentDLL.pdb
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\DesktopClient.csproj.AssemblyReference.cache
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\App.g.cs
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\DesktopClient.csproj.GenerateResource.cache
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\DesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\DesktopC.3DF0E902.Up2Date
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\WpfApp1\obj\Debug\WpfApp1.pdb

@@ -1,0 +1,6 @@
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\StudentDLL\bin\Debug\StudentDLL.dll
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\StudentDLL\bin\Debug\StudentDLL.pdb
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\StudentDLL\obj\Debug\StudentDLL.csproj.AssemblyReference.cache
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\StudentDLL\obj\Debug\StudentDLL.csproj.CoreCompileInputs.cache
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\StudentDLL\obj\Debug\StudentDLL.dll
+C:\Users\juyun\OneDrive\Desktop\Y2S2\DistributedComputing\week2\Lecture2\StudentDLL\StudentDLL\obj\Debug\StudentDLL.pdb
